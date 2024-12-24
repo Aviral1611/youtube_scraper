@@ -1,0 +1,4 @@
+config/api_key.py
+data/*.csv
+__pycache__/
+*.pyc
